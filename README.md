@@ -8,7 +8,7 @@ A real-time fact-checking app for YouTube videos. It extracts factual claims fro
 
 - ✅ Extract YouTube video transcripts  
 - ✅ Detect factual claims using Named Entity Recognition (NER)
-- ✅ Context-window for context aware chceking
+- ✅ **Context-aware claim windowing**: checks facts within a dynamic sliding window of transcript sentences for better claim validation 
 - ✅ Fact-check claims via three web search tools  
 - ✅ Return verdicts: ✅ True / ❌ False / ⚠️ Unverifiable  
 - ✅ Provide detailed explanations and credible source URLs  
@@ -18,7 +18,7 @@ A real-time fact-checking app for YouTube videos. It extracts factual claims fro
 
 ## 📽️ Demo  
 
-[![Watch the demo](https://via.placeholder.com/800x450.png?text=Click+to+watch+demo)](https://www.linkedin.com/posts/ahmedkelsayed_aiforgood-factchecking-fightpropaganda-activity-7332074217502310400-OKZT?utm_source=share&utm_medium=member_desktop)
+[![Watch the demo](interface.jpg)](https://www.linkedin.com/posts/ahmedkelsayed_aiforgood-factchecking-fightpropaganda-activity-7332074217502310400-OKZT?utm_source=share&utm_medium=member_desktop)
 
 👉 Click the image to see a full demo on LinkedIn!
 
@@ -32,5 +32,3 @@ A real-time fact-checking app for YouTube videos. It extracts factual claims fro
 - **Gemini API**  
 - **YouTube Transcript API**  
 - **SerpAPI / Google Search API**  
-
----
