@@ -18,7 +18,7 @@ A real-time fact-checking app for YouTube videos. It extracts factual claims fro
 
 ## 📽️ Demo  
 
-[![Watch the demo](assets/interface.jpg)](https://www.linkedin.com/posts/ahmedkelsayed_aiforgood-factchecking-fightpropaganda-activity-7332074217502310400-OKZT?utm_source=share&utm_medium=member_desktop)
+[![Watch the demo](assets/Interface.JPG)](https://www.linkedin.com/posts/ahmedkelsayed_aiforgood-factchecking-fightpropaganda-activity-7332074217502310400-OKZT?utm_source=share&utm_medium=member_desktop)
 
 👉 Click the image to see a full demo on LinkedIn!
 
