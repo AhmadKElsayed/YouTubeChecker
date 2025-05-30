@@ -8,7 +8,7 @@ A real-time fact-checking app for YouTube videos. It extracts factual claims fro
 
 - ✅ Extract YouTube video transcripts  
 - ✅ Detect factual claims using Named Entity Recognition (NER)
-- ✅ **Context-aware claim windowing**: checks facts within a dynamic sliding window of transcript sentences for better claim validation 
+- ✅ Context-aware claim windowing: checks facts within a dynamic sliding windoW
 - ✅ Fact-check claims via three web search tools  
 - ✅ Return verdicts: ✅ True / ❌ False / ⚠️ Unverifiable  
 - ✅ Provide detailed explanations and credible source URLs  
